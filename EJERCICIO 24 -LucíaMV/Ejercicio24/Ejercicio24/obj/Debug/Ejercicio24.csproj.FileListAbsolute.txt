@@ -1,0 +1,9 @@
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.exe.config
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.exe
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\bin\Debug\Ejercicio24.pdb
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.csprojAssemblyReference.cache
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.Form1.resources
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.Properties.Resources.resources
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.csproj.GenerateResource.cache
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.exe
+D:\User\Laura\Escritorio\EJERCICIO 24 -LucíaMV\Ejercicio24\Ejercicio24\obj\Debug\Ejercicio24.pdb
